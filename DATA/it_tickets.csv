@@ -1,0 +1,4 @@
+ticket_id,issue,status,priority
+1,Login not working,Open,High
+2,Password reset failed,Closed,Medium
+3,Email not syncing,Open,Low
