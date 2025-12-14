@@ -10,3 +10,16 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# Ignore secrets and env
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
